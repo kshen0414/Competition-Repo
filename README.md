@@ -38,4 +38,9 @@
 
 8) The final result would look like this....
 ![Alt text](image-7.png)
+<hr>
+
+9) Depending on your file path and directory, this is how you would see it at last
+- Note that, you could directly use php live server extension too!
+
 
