@@ -1,17 +1,17 @@
 # Competition-Repo for Hilti Project
 
-1) Make sure you have downloaded xampp server from <https://www.apachefriends.org/download.html>
+1) <b>Make sure you have downloaded xampp server from <https://www.apachefriends.org/download.html></b>
 
 * The interface xampp panel would probably look like this :
 ![xampp panel screenshot](image.png)
 
-2) Click start on both Apache and MySql server
+2) <b>Click start on both Apache and MySql server</b>
 
-3) Can Press on Admin button for MySql, will lead you to database
+3) <b>Can Press on Admin button for MySql, will lead you to database</b>
 
-4) I forgot the steps, but i think by default your xampp will be installed in either one of your main drive folders
+4) <b>I forgot the steps, but i think by default your xampp will be installed in either one of your main drive folders</b>
 
-5) Ermmm so depending on where you put your xampp folder, find htdocs.
+5) <b>Ermmm so depending on where you put your xampp folder, find htdocs.</b>
 - Example of my path / directory where I installed : 
 ![Screenshot-2](image-1.png)
 
@@ -22,7 +22,7 @@
 
 ![Alt text](image-3.png)
 
-6) According to my understanding, htdocs is where you should place all your php files
+6) <b>According to my understanding, htdocs is where you should place all your php files</b>
 ![Alt text](image-4.png)
 
 <hr>
@@ -30,7 +30,7 @@
 ![Alt text](image-5.png)
 <hr>
 
-7) now open your web browser, type in the search bar beginning with. "localhost/your_folder_name/file_name"
+7) <b>now open your web browser, type in the search bar beginning with. "localhost/your_folder_name/file_name"</b>
 - Reminder is that, best practice is your folder don't have spaces in between
 - Also, remember to start the xampp server
 ![Alt text](image-6.png)
