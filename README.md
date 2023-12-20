@@ -14,8 +14,8 @@
 5) Ermmm so depending on where you put your xampp folder, find htdocs.
 - Example of my path / directory where I installed : 
 ![Screenshot-2](image-1.png)
-
+<br>
 ![Alt text](image-2.png)
-
+<br>
 ![Alt text](image-3.png)
 
