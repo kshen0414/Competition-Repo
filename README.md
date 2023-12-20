@@ -3,6 +3,7 @@
 1) Make sure you have downloaded xampp server from <https://www.apachefriends.org/download.html>
 
 * The interface xampp panel would probably look like this :
+- hmmmm
 ![xampp panel screenshot](image.png)
 
 2) Click start on both Apache and MySql server
