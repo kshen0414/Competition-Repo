@@ -24,6 +24,7 @@
 ![Alt text](image-3.png)
 
 6) <b>According to my understanding, htdocs is where you should place all your php files</b>
+
 ![Alt text](image-4.png)
 
 <hr>
