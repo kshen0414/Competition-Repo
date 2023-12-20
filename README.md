@@ -5,6 +5,7 @@
 * The interface xampp panel would probably look like this :
 ![xampp panel screenshot](image.png)
 
+<p> </p>
 2) <b>Click start on both Apache and MySql server</b>
 
 3) <b>Can Press on Admin button for MySql, will lead you to database</b>
