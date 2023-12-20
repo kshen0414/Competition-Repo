@@ -7,16 +7,11 @@
 
 <!-- <p> </p> -->
 2) <b>Click start on both Apache and MySql server</b>
-
-
-
-
-
-
-
-
+<p> </p>
+<p> </p>
 
 3) <b>Can Press on Admin button for MySql, will lead you to database</b>
+
 
 4) <b>I forgot the steps, but i think by default your xampp will be installed in either one of your main drive folders</b>
 
