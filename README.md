@@ -36,11 +36,12 @@
 ![Alt text](image-6.png)
 <hr>
 
-8) The final result would look like this....
+8) <b>The final result would look like this....</b>
 ![Alt text](image-7.png)
 <hr>
 
-9) Depending on your file path and directory, this is how you would see it at last
+9) <b>Depending on your file path and directory, this is how you would see it at last</b>
 - Note that, you could directly use php live server extension too!
+![Alt text](image-8.png)
 
 
