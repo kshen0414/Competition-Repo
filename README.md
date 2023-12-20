@@ -22,3 +22,20 @@
 
 ![Alt text](image-3.png)
 
+6) According to my understanding, htdocs is where you should place all your php files
+![Alt text](image-4.png)
+
+<hr>
+
+![Alt text](image-5.png)
+
+
+7) now open your web browser, type in the search bar beginning with. "localhost/your_folder_name/file_name"
+- Reminder is that, best practice is your folder don't have spaces in between
+- Also, remember to start the xampp server
+![Alt text](image-6.png)
+<hr>
+
+8) The final result would look like this....
+![Alt text](image-7.png)
+
