@@ -28,7 +28,7 @@
 <hr>
 
 ![Alt text](image-5.png)
-
+<br>
 
 7) now open your web browser, type in the search bar beginning with. "localhost/your_folder_name/file_name"
 - Reminder is that, best practice is your folder don't have spaces in between
