@@ -31,6 +31,7 @@ if(isset($_POST['submit'])){
     }else{
         echo "You cannot upload files of this type!";
     }
+
 }
 ?>
 
