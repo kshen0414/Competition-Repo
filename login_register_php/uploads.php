@@ -1,4 +1,5 @@
 <?php 
+@include 'includes/config.php';
 if(isset($_POST['submit'])){
     $file = $_FILES['file'];
     // print_r($file);
@@ -17,11 +18,17 @@ if(isset($_POST['submit'])){
     if(in_array($fileActualExt,$allowed)){
         if ($fileError === 0){
             if($fileSize > 100000){
-                $fileNameNew = uniqid('',true).".".$fileActualExt;
-                $fileDestination = 'uploads/'.$fileNameNew;
+                // $fileNameNew = uniqid('',true).".".$fileActualExt;
+                // $fileDestination = 'uploads/'.$fileNameNew;
+                $fileDestination = 'uploads/'.$fileName;
                 move_uploaded_file($fileTmpName,$fileDestination);
-                header("Location: login_form.php?uploadsuccess");
-            }else{
+                header("Location: upload_success.php");
+
+                // insert into database
+                $sql = "INSERT INTO files (Title,File) VALUES('$fileName', '$fileActualExt' )" ;
+                mysqli_query($conn,$sql);
+            }
+            else{
                 echo "Your file is too big";
             }
         }else{
